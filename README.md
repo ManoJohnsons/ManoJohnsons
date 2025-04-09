@@ -28,13 +28,14 @@ I'm a software engineer, a digital game programming technician, and currently pu
 
 ## Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManoJohnsons&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManoJohnsons&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ManoJohnsons&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ManoJohnsons&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManoJohnsons&theme=radical&show_icons=true&hide=stars,contribs)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManoJohnsons&theme=radical&hide=hlsl,shaderlab&layout=donut-vertical)
 
 ## My Top Projects 😎
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ManoJohnsons&repo=catbox-racing&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ManoJohnsons/catbox-racing)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ManoJohnsons&repo=catbox-racing&theme=radical&show_owner=true)](https://github.com/ManoJohnsons/catbox-racing)
 
 <!--
 **ManoJohnsons/ManoJohnsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
